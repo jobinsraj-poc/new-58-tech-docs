@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "new-58"
+  description: "new-58"
+  annotations:
+    github.com/project-slug: jobinsraj-poc/new-58-tech-docs
+    backstage.io/techdocs-ref: url:https://github.com/jobinsraj-poc/new-58-tech-docs
+spec:
+  type: Reference Architecture
+  lifecycle: experimental
+  owner: "jobinsraj-poc"
